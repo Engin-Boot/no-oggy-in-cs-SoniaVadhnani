@@ -5,7 +5,7 @@
 ## Intention
 
 This program intends to remove strings containing 'oggy' from a list of strings,
-so that cockroaches can live peacefully.
+now cockroaches can live peacefully.
 
 ## Method
 
