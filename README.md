@@ -9,4 +9,4 @@ so that cockroaches can live peacefully.
 
 ## Method
 
-Using RemoveAll() function in List.
+The solution is to use appropriate function.
